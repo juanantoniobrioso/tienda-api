@@ -52,4 +52,4 @@ npm start
 # Alternativa: Ejecutar el archivo principal directamente
 # node server.js
 El servidor estará accesible en http://localhost:[PUERTO]. Revisa el archivo server.js para confirmar el puerto de escucha (generalmente 3000 o 8080).🗺️ Endpoints Principales de la API(Nota: Completa esta tabla con las rutas exactas definidas en el directorio routes/ de tu proyecto, por ejemplo, /api/productos o /api/usuarios.)MétodoRutaDescripciónGET/api/recursoObtiene un listado de recursos.POST/api/recursoCrea un nuevo recurso.GET/api/recurso/:id Obtiene los detalles de un recurso por su ID.PUT/api/recurso/:id Actualiza un recurso existente por su ID.DELETE/api/recurso/:idElimina un recurso por su ID.🤝 ContribuciónLas contribuciones son bienvenidas. Si encuentras un error o tienes una mejora:Haz un Fork del proyecto.Crea una rama para tu característica (git checkout -b feature/MiNuevaCaracteristica). Haz commit de tus cambios (git commit -m 'Implementar Mi Nueva Caracteristica').Empuja tus cambios (git push origin feature/MiNuevaCaracteristica). Abre una Pull Request.
-a
+
